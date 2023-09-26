@@ -558,6 +558,11 @@ video {
   margin-bottom: 1.25rem;
 }
 
+.my-3 {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
 .mb-4 {
   margin-bottom: 1rem;
 }
@@ -718,6 +723,10 @@ video {
   height: 1.25rem;
 }
 
+.h-16 {
+  height: 4rem;
+}
+
 .w-103 {
   width: 32rem;
 }
@@ -814,6 +823,10 @@ video {
   width: 2rem;
 }
 
+.w-9 {
+  width: 2.25rem;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -878,6 +891,10 @@ video {
   gap: 2rem;
 }
 
+.gap-32 {
+  gap: 8rem;
+}
+
 .gap-y-2 {
   row-gap: 0.5rem;
 }
@@ -922,6 +939,11 @@ video {
 
 .border {
   border-width: 1px;
+}
+
+.border-y {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
 }
 
 .border-b {
